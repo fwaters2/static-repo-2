@@ -1,0 +1,1 @@
+# static-repo-2
